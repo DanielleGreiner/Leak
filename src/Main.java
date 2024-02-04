@@ -2,7 +2,7 @@
 public class Main {
 
 	private static final String uname = "service_acct";
-	private static final String pass = "aiosfhdifj";
+	private static final String pass = "";
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
